@@ -1,6 +1,6 @@
-## 👏 Hi, I'm Daryl Bechyne
+## 👏 Hi, I'm Daryl B
 ##  About Me
-I am a Safety Ops Anaylist at X in Bastrop Texas
+I am a Anaylist
 ## ⚒️ Skills
 ![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)
 ![Git](https://img.shields.io/badge/Git-F05032?logo=git&logoColor=white)
